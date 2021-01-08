@@ -1,0 +1,4 @@
+server:
+  port: 34573
+  servlet:
+    context-path: /api-test
