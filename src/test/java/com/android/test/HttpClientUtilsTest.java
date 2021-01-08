@@ -1,4 +1,4 @@
-package com.httpclient.test;
+package com.android.test;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
